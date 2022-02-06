@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "",
+    "name": "sales",
+    "type": "Schema"
+  },
+  {
+    "schema": "sales",
+    "name": "customers",
+    "type": "Table"
+  },
+  {
+    "schema": "sales",
+    "name": "staffs",
+    "type": "Table"
+  },
+  {
+    "schema": "sales",
+    "name": "stores",
+    "type": "Table"
+  }
+]

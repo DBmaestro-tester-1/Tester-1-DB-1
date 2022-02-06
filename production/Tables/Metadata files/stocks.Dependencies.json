@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "",
+    "name": "production",
+    "type": "Schema"
+  },
+  {
+    "schema": "production",
+    "name": "products",
+    "type": "Table"
+  },
+  {
+    "schema": "sales",
+    "name": "stores",
+    "type": "Table"
+  }
+]

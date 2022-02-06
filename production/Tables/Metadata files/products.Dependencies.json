@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "",
+    "name": "production",
+    "type": "Schema"
+  },
+  {
+    "schema": "production",
+    "name": "brands",
+    "type": "Table"
+  },
+  {
+    "schema": "production",
+    "name": "categories",
+    "type": "Table"
+  }
+]
